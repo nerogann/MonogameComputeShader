@@ -1,5 +1,10 @@
 # MonogameComputeShader
 
+How to use monogame graphicdevice for computeshader
 
-Base on sharpdx tuitorial 12<br/>
+Requirement :
+DirectX 11 shader mode 5.0
+
+
+Code base on sharpdx tuitorial 12 :<br/>
 https://github.com/RobyDX/SharpDX_Demo/tree/master/SharpDXTutorial/Tutorial12
