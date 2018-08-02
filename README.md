@@ -1,9 +1,9 @@
 # MonogameComputeShader
 
-How to use monogame graphicdevice for computeshader
+How to use monogame graphicdevice for computeshader.<br/><br/>
 
-Requirement :
-DirectX 11 shader mode 5.0
+Requirement :<br/>
+DirectX 11 shader mode 5.0<br/><br/>
 
 
 Code base on sharpdx tuitorial 12 :<br/>
