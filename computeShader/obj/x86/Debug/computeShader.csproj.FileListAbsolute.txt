@@ -1,0 +1,51 @@
+C:\Users\NG\Documents\WorkSpace\Project - GLEN\computeShader\computeShader\bin\Windows\x86\Debug\computeShader.exe
+C:\Users\NG\Documents\WorkSpace\Project - GLEN\computeShader\computeShader\bin\Windows\x86\Debug\computeShader.pdb
+C:\Users\NG\Documents\WorkSpace\Project - GLEN\computeShader\computeShader\bin\Windows\x86\Debug\MonoGame.Framework.dll
+C:\Users\NG\Documents\WorkSpace\Project - GLEN\computeShader\computeShader\bin\Windows\x86\Debug\SharpDX.MediaFoundation.dll
+C:\Users\NG\Documents\WorkSpace\Project - GLEN\computeShader\computeShader\bin\Windows\x86\Debug\SharpDX.dll
+C:\Users\NG\Documents\WorkSpace\Project - GLEN\computeShader\computeShader\bin\Windows\x86\Debug\SharpDX.XAudio2.dll
+C:\Users\NG\Documents\WorkSpace\Project - GLEN\computeShader\computeShader\bin\Windows\x86\Debug\SharpDX.DXGI.dll
+C:\Users\NG\Documents\WorkSpace\Project - GLEN\computeShader\computeShader\bin\Windows\x86\Debug\SharpDX.Direct3D11.dll
+C:\Users\NG\Documents\WorkSpace\Project - GLEN\computeShader\computeShader\bin\Windows\x86\Debug\SharpDX.Direct2D1.dll
+C:\Users\NG\Documents\WorkSpace\Project - GLEN\computeShader\computeShader\bin\Windows\x86\Debug\SharpDX.XInput.dll
+C:\Users\NG\Documents\WorkSpace\Project - GLEN\computeShader\computeShader\bin\Windows\x86\Debug\SharpDX.Direct3D9.dll
+C:\Users\NG\Documents\WorkSpace\Project - GLEN\computeShader\computeShader\bin\Windows\x86\Debug\MonoGame.Framework.xml
+C:\Users\NG\Documents\WorkSpace\Project - GLEN\computeShader\computeShader\bin\Windows\x86\Debug\SharpDX.MediaFoundation.xml
+C:\Users\NG\Documents\WorkSpace\Project - GLEN\computeShader\computeShader\bin\Windows\x86\Debug\SharpDX.xml
+C:\Users\NG\Documents\WorkSpace\Project - GLEN\computeShader\computeShader\bin\Windows\x86\Debug\SharpDX.XAudio2.xml
+C:\Users\NG\Documents\WorkSpace\Project - GLEN\computeShader\computeShader\bin\Windows\x86\Debug\SharpDX.DXGI.xml
+C:\Users\NG\Documents\WorkSpace\Project - GLEN\computeShader\computeShader\bin\Windows\x86\Debug\SharpDX.Direct3D11.xml
+C:\Users\NG\Documents\WorkSpace\Project - GLEN\computeShader\computeShader\bin\Windows\x86\Debug\SharpDX.Direct2D1.xml
+C:\Users\NG\Documents\WorkSpace\Project - GLEN\computeShader\computeShader\bin\Windows\x86\Debug\SharpDX.XInput.xml
+C:\Users\NG\Documents\WorkSpace\Project - GLEN\computeShader\computeShader\bin\Windows\x86\Debug\SharpDX.Direct3D9.xml
+C:\Users\NG\Documents\WorkSpace\Project - GLEN\computeShader\computeShader\obj\x86\Debug\computeShader.csprojResolveAssemblyReference.cache
+C:\Users\NG\Documents\WorkSpace\Project - GLEN\computeShader\computeShader\obj\x86\Debug\computeShader.exe
+C:\Users\NG\Documents\WorkSpace\Project - GLEN\computeShader\computeShader\obj\x86\Debug\computeShader.pdb
+C:\Users\NG\Documents\GitHub\MonogameComputeShader\computeShader\bin\Windows\x86\Debug\Lib\Lidgren.Network.dll
+C:\Users\NG\Documents\GitHub\MonogameComputeShader\computeShader\bin\Windows\x86\Debug\Lib\MonoGame.Framework.dll
+C:\Users\NG\Documents\GitHub\MonogameComputeShader\computeShader\bin\Windows\x86\Debug\Lib\MonoGame.Framework.Net.dll
+C:\Users\NG\Documents\GitHub\MonogameComputeShader\computeShader\bin\Windows\x86\Debug\Lib\SharpDX.Direct2D1.dll
+C:\Users\NG\Documents\GitHub\MonogameComputeShader\computeShader\bin\Windows\x86\Debug\Lib\SharpDX.Direct3D11.dll
+C:\Users\NG\Documents\GitHub\MonogameComputeShader\computeShader\bin\Windows\x86\Debug\Lib\SharpDX.dll
+C:\Users\NG\Documents\GitHub\MonogameComputeShader\computeShader\bin\Windows\x86\Debug\Lib\SharpDX.DXGI.dll
+C:\Users\NG\Documents\GitHub\MonogameComputeShader\computeShader\bin\Windows\x86\Debug\Lib\SharpDX.MediaFoundation.dll
+C:\Users\NG\Documents\GitHub\MonogameComputeShader\computeShader\bin\Windows\x86\Debug\Lib\SharpDX.XAudio2.dll
+C:\Users\NG\Documents\GitHub\MonogameComputeShader\computeShader\bin\Windows\x86\Debug\Lib\SharpDX.XInput.dll
+C:\Users\NG\Documents\GitHub\MonogameComputeShader\computeShader\bin\Windows\x86\Debug\computeShader.exe.config
+C:\Users\NG\Documents\GitHub\MonogameComputeShader\computeShader\bin\Windows\x86\Debug\computeShader.exe
+C:\Users\NG\Documents\GitHub\MonogameComputeShader\computeShader\bin\Windows\x86\Debug\computeShader.pdb
+C:\Users\NG\Documents\GitHub\MonogameComputeShader\computeShader\bin\Windows\x86\Debug\MonoGame.Framework.dll
+C:\Users\NG\Documents\GitHub\MonogameComputeShader\computeShader\bin\Windows\x86\Debug\SharpDX.D3DCompiler.dll
+C:\Users\NG\Documents\GitHub\MonogameComputeShader\computeShader\bin\Windows\x86\Debug\SharpDX.Direct3D11.dll
+C:\Users\NG\Documents\GitHub\MonogameComputeShader\computeShader\bin\Windows\x86\Debug\SharpDX.dll
+C:\Users\NG\Documents\GitHub\MonogameComputeShader\computeShader\bin\Windows\x86\Debug\SharpDX.DXGI.dll
+C:\Users\NG\Documents\GitHub\MonogameComputeShader\computeShader\bin\Windows\x86\Debug\SharpDX.MediaFoundation.dll
+C:\Users\NG\Documents\GitHub\MonogameComputeShader\computeShader\bin\Windows\x86\Debug\SharpDX.Direct2D1.dll
+C:\Users\NG\Documents\GitHub\MonogameComputeShader\computeShader\bin\Windows\x86\Debug\SharpDX.XAudio2.dll
+C:\Users\NG\Documents\GitHub\MonogameComputeShader\computeShader\bin\Windows\x86\Debug\SharpDX.XInput.dll
+C:\Users\NG\Documents\GitHub\MonogameComputeShader\computeShader\bin\Windows\x86\Debug\SharpDX.D3DCompiler.xml
+C:\Users\NG\Documents\GitHub\MonogameComputeShader\computeShader\obj\x86\Debug\computeShader.exe
+C:\Users\NG\Documents\GitHub\MonogameComputeShader\computeShader\obj\x86\Debug\computeShader.pdb
+C:\Users\NG\Documents\GitHub\MonogameComputeShader\computeShader\obj\x86\Debug\computeShader.csprojResolveAssemblyReference.cache
+C:\Users\NG\Documents\GitHub\MonogameComputeShader\computeShader\bin\Windows\x86\Debug\HLSL.txt
+C:\Users\NG\Documents\GitHub\MonogameComputeShader\computeShader\bin\Windows\x86\Debug\Content\font.xnb
